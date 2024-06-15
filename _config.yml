@@ -1,4 +1,4 @@
-title: Sparsh N
+title: Sparsh Nair
 url: "https://sparsh-n.github.io"
 baseurl: ""
 
@@ -7,7 +7,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "Page design + Jekyll Template by Ankit Sultana"
 
 sass:
     style: compressed

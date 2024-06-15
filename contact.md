@@ -4,13 +4,9 @@ is_contact: true
 ---
 
 * Email: [nairspar[at]iu[dot]edu]()
-<!-- 
-* Phone: [+91-123123](tel:+91-123123) 
-
---- -->
 
 <!--
-
+* Phone: [+91-123123](tel:+91-123123) 
 ## Mailing Address
 
 > 221B, Baker Street
