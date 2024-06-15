@@ -1,10 +1,8 @@
-title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+title: Sparsh N
+url: "https://sparsh-n.github.io"
+baseurl: ""
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
-
 tracking_id: #
 
 footer: yes
@@ -17,8 +15,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+   link: ""
+ - name: "Projects"
+   link: "projects"
  - name: "Contact"
    link: "contact"
