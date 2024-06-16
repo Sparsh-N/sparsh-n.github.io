@@ -6,11 +6,14 @@ layout: default
 
 <img class="profile-picture" src="mypic.jpg">
 
-Hi! I am a junior at Indiana University - Bloomington studying Computer Science.
+Welcome to my site! I am a junior at Indiana University studying Computer Science, with minors in Math and Data Science.
 
 ## Interests
 
 I'm interested in computer graphics and backend development.
+
+## Personal
+In my free time, I enjoy mountain biking, chess, badminton, and occasionally, ice skating.
 
 <!-- ## Publications
 

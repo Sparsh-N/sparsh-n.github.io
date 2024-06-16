@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZQRE5YSNDN"></script>
+        <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-ZQRE5YSNDN');
+    </script>
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
 
     <meta charset="utf-8">
@@ -80,13 +88,13 @@
             <div class="container content contact">
         {% else %}
             <div class="container content">
+            <a href="https://mapmyvisitors.com/web/1bw51"  title="Visit tracker"></a>
         {% endif %}
                 {{ content }}
                 {% if site.footer == true %}
                     <hr />
                     <p style="text-align: center; margin-bottom: 10px">
                     <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
-                    <a href="https://mapmyvisitors.com/web/1bw51"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=BzUaj7yT3mJ16Betrdxld8cFUAxryWvd2mUCS7knT9k&cl=ffffff" /></a>
                     </p>
                 {% endif %}
             </div>

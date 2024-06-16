@@ -7,15 +7,15 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design + Jekyll Template by Ankit Sultana"
+footer_text: "Jekyll Template"
 
 sass:
     style: compressed
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: ""
+#  - name: "About"
+#    link: ""
  - name: "Projects"
    link: "projects"
  - name: "Contact"

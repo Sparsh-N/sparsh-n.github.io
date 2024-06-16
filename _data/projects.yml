@@ -1,0 +1,31 @@
+- category: Graphics + CV
+  projects:
+  - name: Pieces AI - Evolutionary Algorithms to generate Mosaics.
+    description: Final project for CSCI-B 351 Intro to AI. Worked with Aidan and Ronak to use a evolutionary algotihm to generate mosaics using a given texture pack.
+    links:
+      - text: Github (Not Live Yet, will fix)
+        link: https://github.com/Sparsh-N
+    image: /assets/b351fig1.png
+  - name: Ray Casting in Java
+    description: A simple implementation of Ray Casting projection, writeen in Java with Swing.
+    links:
+      - text: GitHub
+        link: https://github.com/Sparsh-N/JavaRayCaster
+    image: /assets/raycaster.jpg
+  - name: FURY - Free Unified Rendering in Python
+    description: Contrbutor to a open source project used for scientific visualization. 
+    links:
+      - text: FURY website
+        link: https://fury.gl
+      - text: My Fork
+        link: https://github.com/Sparsh-N/fury
+    image: /assets/fury.jpg
+
+- category: Misc. (CLI, etc)
+  projects:
+  - name: C2 Server
+    description: A command and control server written in Go. I primarily used this as a opportunity to learn Golang.
+    links:
+      - text: GitHub
+        link: https://github.com/Sparsh-N/C2Server
+    image: https://dummyimage.com/640x360/ddd/ddd

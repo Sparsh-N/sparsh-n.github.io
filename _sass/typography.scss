@@ -53,6 +53,32 @@
             }
         }
     }
+    .project {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+  
+        .project-container {
+          min-width: 0;
+          @media (min-width: $small-width) {
+            flex: 0 1 calc(33% - 1em);
+          }
+          @media (max-width: $small-width) {
+            flex: 0 1 100%;
+          }
+          height: 40vh;
+  
+          img {
+            height: 100%;
+            width: 100%;
+            flex: 0 1 calc(33% - 1em);
+            object-fit: cover;
+          }
+        }
+    }
+    .project-container .empty {
+        visibility: hidden;
+    }
     img {
         text-align: center;
         width: 100%;
