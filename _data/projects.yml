@@ -3,11 +3,11 @@
   - name: Pieces AI - Evolutionary Algorithms to generate Mosaics.
     description: Final project for CSCI-B 351 Intro to AI. Worked with Aidan and Ronak to use a evolutionary algotihm to generate mosaics using a given texture pack.
     links:
-      - text: Github (Not Live Yet, will fix)
+      - text: Github (Not Live Yet)
         link: https://github.com/Sparsh-N
     image: /assets/b351fig1.png
   - name: Ray Casting in Java
-    description: A simple implementation of Ray Casting projection, writeen in Java with Swing.
+    description: A simple implementation of Ray Casting projection, written in Java with Swing.
     links:
       - text: GitHub
         link: https://github.com/Sparsh-N/JavaRayCaster

@@ -3,6 +3,7 @@ layout: default
 ---
 <h2>Projects</h2>
 {% for category in site.data.projects %}
+<div style="margin-bottom: 5px;"> 
 <h3>{{ category.category }}</h3>
 <div class="project">
   {% for project in category.projects %}
@@ -29,6 +30,7 @@ layout: default
   </div>
   {% endif %}
   {% endfor %}
+</div>
 </div>
 {% endfor %}
 
