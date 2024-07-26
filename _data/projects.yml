@@ -1,11 +1,17 @@
 - category: Graphics + CV
   projects:
   - name: Pieces AI - Evolutionary Algorithms to generate Mosaics.
-    description: Final project for CSCI-B 351 Intro to AI. Worked with Aidan and Ronak to use a evolutionary algotihm to generate mosaics using a given texture pack.
+    description: Final project for CSCI-B 351 Intro to AI. Worked with Aidan and Ronak to use a evolutionary algorithm to generate mosaics using a given texture pack.
     links:
       - text: Github (Not Live Yet)
         link: https://github.com/Sparsh-N
     image: /assets/b351fig1.png
+  - name: HPG 2024 Student Competition Entry - Amiga Juggler Statue
+    description: A recreation of the Amiga Juggler in Shadertoy with Gooch Shading. Worked with Luke on the shader.
+    links:
+      - text: Shadertoy
+        link: https://www.shadertoy.com/view/l3VSz3
+    image: /assets/hpgshader.png
   - name: Ray Casting in Java
     description: A simple implementation of Ray Casting projection, written in Java with Swing.
     links:
