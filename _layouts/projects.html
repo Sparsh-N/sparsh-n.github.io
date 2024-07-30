@@ -11,7 +11,7 @@ layout: default
   <div class="project-container empty">
   </div>
   {% else %}
-  <div class="project-container">
+  <div class="project-container" style="margin-bottom: 15px;">
     <div style="height: 45%">
       <img src="{{ project.image }}">
     </div>
@@ -25,7 +25,7 @@ layout: default
           {% endfor %}
         </span>
       </div>
-      <p style="margin-bottom: 15px;">{{ project.description }}</p>
+      <p style="margin-top: 0;">{{ project.description }}</p>
     </div>
   </div>
   {% endif %}
