@@ -13,7 +13,7 @@ Welcome to my site! I am a junior at Indiana University studying Computer Scienc
 I'm interested in computer graphics and backend development.
 
 ## Personal
-In my free time, I enjoy mountain biking, chess, badminton, and occasionally, ice skating.
+In my free time, I enjoy playing chess and badminton. Occasionally, I also go mountain biking and (rarely) ice skating.
 
 <!-- ## Publications
 
