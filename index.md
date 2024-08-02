@@ -15,6 +15,8 @@ I'm interested in computer graphics and backend development.
 ## Personal
 In my free time, I enjoy playing chess and badminton. Occasionally, I also go mountain biking and (rarely) ice skating.
 
+I also enjoy reading some of the many thought provoking papers from [SIGBOVIK](https://www.sigbovik.org). Give it a try if you have time!
+
 <!-- ## Publications
 
 1. F.Bar, J.Doe: Effects of having a placeholder of a name
