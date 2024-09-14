@@ -15,7 +15,7 @@ I'm interested in computer graphics and backend development.
 ## Personal
 In my free time, I enjoy playing [chess](https://www.chess.com/member/sparsh-n) and badminton. Occasionally, I also go mountain biking and (rarely) ice skating.
 
-I also enjoy reading some of the (many) thought provoking papers from [SIGBOVIK](https://www.sigbovik.org). Give it a try if you have time [:)]
+I also enjoy reading some of the (many) thought provoking papers from [SIGBOVIK](https://www.sigbovik.org). Give it a try if you have time :)
 
 <!-- ## Publications
 
