@@ -35,10 +35,11 @@
       - text: GitHub
         link: https://github.com/Sparsh-N/C2Server
     image: https://dummyimage.com/640x360/ddd/ddd
-
   - name: IU AIMM Boat Project
     description: Part of the IU team for Artificial Intelligence Maritime Maneuver 2024.
     links:
-      - text: Design Report (Not Live Yet)
-        link: https://github.com/Sparsh-N/
+      - text: Technical Design Report
+        link: https://drive.google.com/file/d/1IBO2X8vHQIXP1flKfA6u1h2PSaRFDUjc/view?usp=sharing
+      - text: News Feature
+        link: https://news.iu.edu/live/news/37212-ai-powered-boat-competition-immerses-luddy
     image: /assets/boat.jpg
