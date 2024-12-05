@@ -1,13 +1,13 @@
 - category: Graphics + CV
   projects:
   - name: Pieces AI - Evolutionary Algorithms to generate Mosaics.
-    description: Final project for CSCI-B 351 Intro to AI. Worked with Aidan and Ronak to use a evolutionary algorithm to generate mosaics using a given texture pack.
+    description: B351 Intro to AI final project. Worked with Aidan and Ronak to use a evolutionary algorithm to generate mosaics using a texture pack.
     links:
-      - text: Github (Not Live Yet)
-        link: https://github.com/Sparsh-N
+      - text: Project Paper
+        link: https://drive.google.com/file/d/1KlvmfwVvKleh6nrP2rEt23Y_qxb598jc/view?usp=sharing
     image: /assets/b351fig1.png
   - name: HPG 2024 Student Competition Entry - Amiga Juggler Statue
-    description: A recreation of the Amiga Juggler in Shadertoy with Gooch Shading. Worked with Luke on the shader.
+    description: A recreation of the Amiga Juggler in Shadertoy with Gooch Shading. Worked with Luke for this one.
     links:
       - text: Shadertoy
         link: https://www.shadertoy.com/view/l3VSz3
@@ -19,7 +19,7 @@
         link: https://github.com/Sparsh-N/JavaRayCaster
     image: /assets/raycaster.jpg
   - name: FURY - Free Unified Rendering in Python
-    description: Contrbutor to a open source project used for scientific visualization. 
+    description: Contributor to a open source project in scientific visualization. 
     links:
       - text: FURY website
         link: https://fury.gl
@@ -30,13 +30,13 @@
 - category: Misc. (CLI, etc)
   projects:
   - name: C2 Server
-    description: A command and control server written in Go. I primarily used this as a opportunity to learn Golang.
+    description: Command and control server written in Go, taught by CS Club @ IU. I mostly used this as a opportunity to learn Golang.
     links:
       - text: GitHub
         link: https://github.com/Sparsh-N/C2Server
     image: https://dummyimage.com/640x360/ddd/ddd
   - name: IU AIMM Boat Project
-    description: Part of the IU team for Artificial Intelligence Maritime Maneuver 2024.
+    description: Part of IU team for Artificial Intelligence Maritime Maneuver 2024. The water was (pretty) cold.
     links:
       - text: Technical Design Report
         link: https://drive.google.com/file/d/1IBO2X8vHQIXP1flKfA6u1h2PSaRFDUjc/view?usp=sharing
