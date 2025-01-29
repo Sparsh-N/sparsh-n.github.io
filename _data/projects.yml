@@ -1,5 +1,11 @@
 - category: Graphics + CV
   projects:
+  - name: Chladni Pattern Visualization
+    description: B481 Computer Graphics final project. A simple interactive unity demo showing chladni patterns along a plate.
+    links:
+      - text: Github
+        link: https://github.com/Sparsh-N/b481finalproject
+    image: /assets/b481.png
   - name: Pieces AI - Evolutionary Algorithms to generate Mosaics.
     description: B351 Intro to AI final project. Worked with Aidan and Ronak to use a evolutionary algorithm to generate mosaics using a texture pack.
     links:
