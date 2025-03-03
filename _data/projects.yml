@@ -1,25 +1,25 @@
 - category: Graphics + CV
   projects:
   - name: Chladni Pattern Visualization
-    description: B481 Computer Graphics final project. A simple interactive unity demo showing chladni patterns along a plate.
+    description: Computer Graphics final project. Unity demo of chladni patterns.
     links:
       - text: Github
         link: https://github.com/Sparsh-N/b481finalproject
     image: /assets/b481.png
-  - name: Pieces AI - Evolutionary Algorithms to generate Mosaics.
-    description: B351 Intro to AI final project. Worked with Aidan and Ronak to use a evolutionary algorithm to generate mosaics using a texture pack.
+  - name: Pieces - Evolutionary Algorithms to generate Mosaics.
+    description: Intro to AI final project. Worked with Aidan and Ronak to use a evolutionary algorithm to generate mosaics using a texture pack.
     links:
       - text: Project Paper
         link: https://drive.google.com/file/d/1KlvmfwVvKleh6nrP2rEt23Y_qxb598jc/view?usp=sharing
     image: /assets/b351fig1.png
   - name: HPG 2024 Student Competition Entry - Amiga Juggler Statue
-    description: A recreation of the Amiga Juggler in Shadertoy with Gooch Shading. Worked with Luke for this one.
+    description: Amiga Juggler in Shadertoy with Gooch Shading. Worked with Luke.
     links:
       - text: Shadertoy
         link: https://www.shadertoy.com/view/l3VSz3
     image: /assets/hpgshader.png
   - name: Ray Casting in Java
-    description: A simple implementation of Ray Casting projection, written in Java with Swing.
+    description: Ray Casting implementation in Java with Swing.
     links:
       - text: GitHub
         link: https://github.com/Sparsh-N/JavaRayCaster
