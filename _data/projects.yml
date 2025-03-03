@@ -7,7 +7,7 @@
         link: https://github.com/Sparsh-N/b481finalproject
     image: /assets/b481.png
   - name: Pieces - Evolutionary Algorithms to generate Mosaics.
-    description: Intro to AI final project. Worked with Aidan and Ronak to use a evolutionary algorithm to generate mosaics using a texture pack.
+    description: Intro to AI final project. Worked with Aidan and Ronak.
     links:
       - text: Project Paper
         link: https://drive.google.com/file/d/1KlvmfwVvKleh6nrP2rEt23Y_qxb598jc/view?usp=sharing
@@ -33,14 +33,8 @@
         link: https://github.com/Sparsh-N/fury
     image: /assets/fury.jpg
 
-- category: Misc. (CLI, etc)
+- category: Misc.
   projects:
-  - name: C2 Server
-    description: Command and control server written taught by CyberSec Club @ IU.
-    links:
-      - text: GitHub
-        link: https://github.com/Sparsh-N/C2Server
-    image: https://dummyimage.com/640x360/ddd/ddd
   - name: IU AIMM Boat Project
     description: IU team Artificial Intelligence Maritime Maneuver 2024. Water was (pretty) cold.
     links:
